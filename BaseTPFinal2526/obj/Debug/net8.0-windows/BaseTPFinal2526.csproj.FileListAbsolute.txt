@@ -1,0 +1,187 @@
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.exe
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.deps.json
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.runtimeconfig.json
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.AssemblyReference.cache
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.MainForm.resources
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.GenerateResource.cache
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfoInputs.cache
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfo.cs
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.CoreCompileInputs.cache
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFi.AB44D75F.Up2Date
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\refint\BaseTPFinal2526.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.genruntimeconfig.cache
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\ref\BaseTPFinal2526.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayConsultationsForm.resources
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayPersonsForm.resources
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManageDoctorsForm.resources
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePatientsForm.resources
+C:\Users\tangu\source\repos\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePersonFormBase.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.exe
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.deps.json
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.runtimeconfig.json
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.AssemblyReference.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayConsultationsForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayPersonsForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.MainForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManageDoctorsForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePatientsForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePersonFormBase.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.GenerateResource.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfoInputs.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfo.cs
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.CoreCompileInputs.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFi.AB44D75F.Up2Date
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\refint\BaseTPFinal2526.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.genruntimeconfig.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\ref\BaseTPFinal2526.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.exe
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.deps.json
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.runtimeconfig.json
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.AssemblyReference.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayConsultationsForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayPersonsForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.MainForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManageDoctorsForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePatientsForm.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePersonFormBase.resources
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.GenerateResource.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfoInputs.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfo.cs
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.CoreCompileInputs.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFi.AB44D75F.Up2Date
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\refint\BaseTPFinal2526.dll
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.genruntimeconfig.cache
+C:\Users\tangu\Documents\Cours C# HELB\2025\Bases TP\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\ref\BaseTPFinal2526.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.exe
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.deps.json
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.runtimeconfig.json
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.AssemblyReference.cache
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayConsultationsForm.resources
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayPersonsForm.resources
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.MainForm.resources
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManageDoctorsForm.resources
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePatientsForm.resources
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePersonFormBase.resources
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.GenerateResource.cache
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfoInputs.cache
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfo.cs
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.CoreCompileInputs.cache
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFi.AB44D75F.Up2Date
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\refint\BaseTPFinal2526.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.genruntimeconfig.cache
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\ref\BaseTPFinal2526.dll
+C:\Users\akimb\Downloads\BaseTPFinal2526\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManageConsultationsForm.resources
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.exe
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.deps.json
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.runtimeconfig.json
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.AssemblyReference.cache
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayConsultationsForm.resources
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.DisplayPersonsForm.resources
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.MainForm.resources
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManageConsultationsForm.resources
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManageDoctorsForm.resources
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePatientsForm.resources
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.ManagePersonFormBase.resources
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.GenerateResource.cache
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfoInputs.cache
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.AssemblyInfo.cs
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.csproj.CoreCompileInputs.cache
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFi.AB44D75F.Up2Date
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\refint\BaseTPFinal2526.dll
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.pdb
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\BaseTPFinal2526.genruntimeconfig.cache
+C:\Users\akimb\Downloads\TPFinal2526AkimBelkouaci\BaseTPFinal2526\BaseTPFinal2526\obj\Debug\net8.0-windows\ref\BaseTPFinal2526.dll
